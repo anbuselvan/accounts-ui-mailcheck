@@ -1,0 +1,3 @@
+[submodule "vendor/mailcheck"]
+	path = vendor/mailcheck
+	url = https://github.com/mailcheck/mailcheck
