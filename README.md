@@ -4,7 +4,7 @@
 
 ### Documentation
 
-Please check the full documentation from [mailcheck](https://github.com/mailcheck/mailcheck/blob/master/README.md) repository.
+Please check the full documentation from the [mailcheck](https://github.com/mailcheck/mailcheck/blob/master/README.md) repository.
 
 ### Sample App
 
