@@ -12,7 +12,7 @@ Check the mailcheck-test project from **examples/mailcheck-test** folder.
 
 ### Quick preview
 
-![Screen Capture](https://github.com/anbuselvan/accounts-ui-mailcheck/blob/master/screenshot/mailcheck.gif)
+![Screen Capture](https://raw.githubusercontent.com/anbuselvan/accounts-ui-mailcheck/master/screenshot/mailcheck.gif)
 
 ### See it in action
 
